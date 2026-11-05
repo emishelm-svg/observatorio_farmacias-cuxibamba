@@ -37,3 +37,13 @@ Abrir el cuaderno en Google Colab y usar *Entorno de ejecución > Reiniciar sesi
 ## Declaración de uso de IA
 
 Se utilizó Gemini para una mejor redacción, verificando que los textos fueran claros y sencillos.
+
+
+## Supuestos y limitaciones
+
+Supuesto 1: Los descuentos publicados en redes sociales, catálogos virtuales y páginas web son los que realmente se aplican en las farmacias de Loja.
+Supuesto 2: Los clientes de Loja toman en cuenta los descuentos al elegir en qué farmacia comprar sus productos clave.
+Limitación: El observatorio solo ve las ofertas publicadas en medios digitales; no incluye las promociones exclusivas de los locales físicos ni las ventas y márgenes de la competencia, por lo que no permite medir cuántos clientes atrae cada oferta.
+  
+¿Por qué importa para el decisor? 
+Declarar estos supuestos y esta limitación ayuda al Gerente de Marketing y Comercial de Farmacia Cuxibamba a definir la estrategia mensual de promociones y descuentos con mayor cautela. Así sabrá que los datos muestran lo que la competencia publica, pero no confirman el efecto de esas ofertas en sus ventas, y evitará igualar un descuento que reduzca el margen sin atraer más clientes.
